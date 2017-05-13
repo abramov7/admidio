@@ -357,7 +357,7 @@
   <string name="MEM_SHOW_ALL_USERS">Afficher tous les usagers</string>
   <string name="MEM_UPDATED_ON">Mis à jour le</string>
   <string name="MEM_USER_DELETE">Désirez-vous supprimer #VAR1_BOLD#?\n\nL\'utilisateur sera physiquement supprimé dans la base donnée.</string>
-  <string name="MEM_USER_MANAGEMENT">Gestion de l\'utilisateur</string>
+  <string name="MEM_USER_MANAGEMENT">Gestion des utilisateurs</string>
   <string name="MEM_USER_MANAGEMENT_DESC">Afficher et organiser tout les membres actifs et fondateurs. Les nouveaux usagers peuvent être importés ou créés.</string>
   <!--Phrases only in Messagemodule-->
   <string name="MSG_FORMER_MEMBERS">Membres fondateurs</string>
@@ -370,7 +370,7 @@
   <string name="NWU_ASSIGN_REGISTRATION">Attribution d\'inscription</string>
   <string name="NWU_DELETE_REGISTRATION">Suppression d\'inscription</string>
   <string name="NWU_MANAGE_NEW_REGISTRATIONS_DESC">nouvelles inscriptions de visiteurs peuvent être énumérés, approuvé ou refusé ici.</string>
-  <string name="NWU_NEW_REGISTRATIONS">Les nouvelles inscriptions</string>
+  <string name="NWU_NEW_REGISTRATIONS">Nouvelles inscriptions</string>
   <string name="NWU_NO_MEMBERSHIP">L\'utilisateur n\'est pas membre de l\'organisation #VAR1# mais il a déjà affecté les informations de connexion.</string>
   <string name="NWU_NO_MEMBERSHIP_NO_LOGIN">L\'utilisateur n\'est pas membre de l\'organisation% VAR1% et n\'a pas d\'informations de connexion enregistrés.</string>
   <string name="NWU_NO_REGISTRATIONS">Aucune nouvelle inscription disponibles.</string>
