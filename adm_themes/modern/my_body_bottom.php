@@ -89,6 +89,8 @@
                                              $gL10n->get('LNK_WEBLINKS'), '/icons/weblinks.png');
                     }
 
+                    $moduleMenu->addItem('written_communications', '/adm_plugins/written_communications/written_communications.php','Letters', '/icons/page_white_word.png');
+
                     echo $moduleMenu->show();
 
                     // Administration Menu
