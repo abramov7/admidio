@@ -91,6 +91,8 @@
 
                     $moduleMenu->addItem('written_communications', '/adm_plugins/written_communications/written_communications.php','Letters', '/icons/page_white_word.png');
 
+                    include(ADMIDIO_PATH . FOLDER_PLUGINS . '/mitgliedsbeitrag/mitgliedsbeitrag.php');  
+
                     echo $moduleMenu->show();
 
                     // Administration Menu
